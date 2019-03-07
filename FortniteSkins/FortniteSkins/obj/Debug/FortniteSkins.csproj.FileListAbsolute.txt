@@ -1,0 +1,10 @@
+C:\Users\wieks\Desktop\Fortnite Skins\FortniteSkins-DreamTeam\FortniteSkins\FortniteSkins\bin\Debug\FortniteSkins.exe.config
+C:\Users\wieks\Desktop\Fortnite Skins\FortniteSkins-DreamTeam\FortniteSkins\FortniteSkins\bin\Debug\FortniteSkins.exe
+C:\Users\wieks\Desktop\Fortnite Skins\FortniteSkins-DreamTeam\FortniteSkins\FortniteSkins\bin\Debug\FortniteSkins.pdb
+C:\Users\wieks\Desktop\Fortnite Skins\FortniteSkins-DreamTeam\FortniteSkins\FortniteSkins\obj\Debug\FortniteSkins.csprojAssemblyReference.cache
+C:\Users\wieks\Desktop\Fortnite Skins\FortniteSkins-DreamTeam\FortniteSkins\FortniteSkins\obj\Debug\FortniteSkins.Form1.resources
+C:\Users\wieks\Desktop\Fortnite Skins\FortniteSkins-DreamTeam\FortniteSkins\FortniteSkins\obj\Debug\FortniteSkins.Properties.Resources.resources
+C:\Users\wieks\Desktop\Fortnite Skins\FortniteSkins-DreamTeam\FortniteSkins\FortniteSkins\obj\Debug\FortniteSkins.csproj.GenerateResource.cache
+C:\Users\wieks\Desktop\Fortnite Skins\FortniteSkins-DreamTeam\FortniteSkins\FortniteSkins\obj\Debug\FortniteSkins.csproj.CoreCompileInputs.cache
+C:\Users\wieks\Desktop\Fortnite Skins\FortniteSkins-DreamTeam\FortniteSkins\FortniteSkins\obj\Debug\FortniteSkins.exe
+C:\Users\wieks\Desktop\Fortnite Skins\FortniteSkins-DreamTeam\FortniteSkins\FortniteSkins\obj\Debug\FortniteSkins.pdb
